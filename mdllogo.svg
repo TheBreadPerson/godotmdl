@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="256mm"
-   height="256mm"
+   width="48"
+   height="48"
    viewBox="0 0 48 48"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="mdllogo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -75,27 +75,11 @@
          id="path2"
          style="fill:#478cbf;stroke-width:31.0313;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-opacity:0;paint-order:markers stroke fill"
          d="m 13.96439,4.631168 c 0,0 -3.400079,0.2480013 -5.3802015,0.8762328 -1.0676574,0.3387336 -3.2940544,1.3939703 -4.241764,1.8520363 -0.895524,0.2969786 -1.5000733,1.1342536 -1.500216,2.0777353 0.00116,1.2088076 0.9817716,2.1879386 2.1905813,2.1872626 0.7530937,0.0037 1.0380969,-0.367922 1.5765563,-0.670451 3.2167335,-1.6388529 14.3846669,-4.7303112 21.5905079,3.166387 10.255749,11.239016 2.580857,22.907234 -0.35182,25.719426 -0.4641,0.369698 -0.804472,0.600114 -0.985757,0.859637 -0.206282,0.339048 -0.31536,0.728291 -0.315309,1.125162 8.8e-5,1.195123 0.968906,2.16394 2.164029,2.16403 2.088052,-0.08521 4.532235,-4.159352 4.663273,-4.344568 0.989713,-1.398895 2.336621,-4.165426 2.336621,-4.165426 L 44.194419,14.800866 C 44.728494,13.786747 45.00759,12.65783 45.00759,11.511674 45.006881,7.7424357 42.044938,4.6387522 38.279847,4.461983 30.176738,4.4971088 22.068787,4.5714218 13.96439,4.6311714 Z"
-         sodipodi:nodetypes="csccccsccccsccccc" /><text
-         xml:space="preserve"
-         style="font-size:22.6581px;font-family:'ProFont IIx Nerd Font Propo';-inkscape-font-specification:'ProFont IIx Nerd Font Propo';letter-spacing:8.4968px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;fill-opacity:1;stroke-width:32.1138;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-opacity:0;paint-order:markers stroke fill"
-         x="6.581553"
-         y="31.540913"
-         id="text4"><tspan
-           sodipodi:role="line"
-           id="tspan4"
-           x="6.581553"
-           y="31.540913"
-           style="stroke-width:32.1138" /></text><text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.2838px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;fill-opacity:1;stroke-width:29.1508;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-opacity:0;paint-order:markers stroke fill"
-         x="2.9784937"
-         y="28.711248"
-         id="text5"><tspan
-           sodipodi:role="line"
-           id="tspan5"
-           x="2.9784937"
-           y="28.711248"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Bold';letter-spacing:0px;stroke-width:29.1508">.MDL</tspan></text><g
+         sodipodi:nodetypes="csccccsccccsccccc" /><path
+         d="M 3.5955217,28.711248 H 5.2100783 V 27.127543 H 3.5955217 Z m 2.9514493,0 h 1.5117186 v -5.152183 h 0.020568 l 1.799665,5.152183 h 1.2443398 l 1.799665,-5.203602 h 0.02057 v 5.203602 h 1.511718 v -7.342633 h -2.27272 l -1.62484,5.049346 h -0.02057 L 8.8196908,21.368615 H 6.546971 Z m 9.327402,0 h 3.167411 c 2.241868,0 3.331951,-1.583705 3.331951,-3.712451 0,-2.437261 -1.429448,-3.630182 -3.331951,-3.630182 h -3.167411 z m 1.614557,-5.985171 h 1.151786 c 1.604272,0 2.118462,0.946109 2.118462,2.426977 0,1.62484 -0.89469,2.200733 -1.830516,2.200733 H 17.48893 Z m 6.005731,5.985171 h 5.193319 v -1.357461 h -3.578762 v -5.985172 h -1.614557 z"
+         id="text5"
+         style="font-weight:bold;font-size:10.2838px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Bold';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:29.1508;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-opacity:0;paint-order:markers stroke fill"
+         aria-label=".MDL" /><g
          inkscape:label="Layer 1"
          id="layer1-3"
          transform="matrix(0.01136945,0.01136945,-0.01136945,0.01136945,40.064344,-2.3704448)"><g
