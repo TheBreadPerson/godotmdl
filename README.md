@@ -4,11 +4,9 @@
 
 <p align="center">
 
-<a href="https://godotengine.org/asset-library/asset/5263" target="_blank">
+<a href="https://godotengine.org/asset-library/asset/edit/23169" target="_blank">
 <img src="https://img.shields.io/badge/asset_library-%23EEEEEE.svg?style=for-the-badge&logo=godot-engine" alt="Godot Asset Library"></a>
 
-<a href="https://store.godotengine.org/asset/elliptical/rumblepak/" target="_blank">
-<img src="https://img.shields.io/badge/asset_store-%23333333.svg?style=for-the-badge&logo=godot-engine&logoColor=%23ffffff" alt="Godot Asset Store"></a>
 </p>
 
 ## About
