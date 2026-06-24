@@ -5,7 +5,7 @@
 <p align="center">
 
 <a href="https://store.godotengine.org/asset/barebones/godotmdl/" target="_blank">
-<img src="https://img.shields.io/badge/asset_library-%23EEEEEE.svg?style=for-the-badge&logo=godot-engine" alt="Godot Asset Library"></a>
+<img src="https://img.shields.io/badge/asset_store-%23EEEEEE.svg?style=for-the-badge&logo=godot-engine" alt="Godot Asset Store"></a>
 
 </p>
 
